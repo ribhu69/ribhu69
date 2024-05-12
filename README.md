@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arkaprava Ghosh</h1>
-<h3 align="center">Crafting seamless experiences for iOS users, one line of code at a time.</h3>
+<h3 align="center">Empowering iOS users through intuitive experiences</h3>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 📚 I'm a seasoned iOS developer fluent in UIKit, CoreData, and SwiftUI, dedicated to building scalable apps that elevate user engagement and experience.
 
 - 📝 I regularly write articles on [https://medium.com/@arka69](https://medium.com/@arka69)
 
